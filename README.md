@@ -10,8 +10,7 @@ Start here:
 ### 📂 Core Sequence (Read in Order)
  **1. 🔍 [Why do you want the muscles](./Why%20do%20you%20want%20the%20muscles.md)**
    A philosophical filtering mechanism. What’s driving you to train? Vanity, strength, insecurity — or precision self-development?
-
-2. 🧠 **[Muscle Fibers & Nervous System Primer](./Muscle%20Fibers%20&%20Nervous%20System%20Primer.md)**
+ 2. 🧠 ** [Muscle Fibers & Nervous System Primer](./01_Muscle_Fibers_Primer.md)**
    Understand what you're *actually* training.
 
    * Type I vs Type II
