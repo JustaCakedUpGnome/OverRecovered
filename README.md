@@ -34,5 +34,12 @@ Start here:
    - Need help building your split? → [Split Guide](./Goto%20split.md)  
    - Diet & recovery guidance → [Hydration & Nutrient Transport](./Hydration%20&%20Nutrient%20Transport%20Essentials.md)  
    - Future doc: “Are You Recovered Enough?” checklist & logic
+  
+6. 💧 **[Hydration & Nutrient Transport Explained](./Hydration_Nutrient_Transport.md)**  
+   Most lifters obsess over protein — while ignoring the substrates that *make protein usable*.  
+   This section breaks down:  
+   - Why **carbs, water, and sodium** are your real hypertrophy foundation  
+   - The triad of glycogen, hydration, and mineral balance  
+   - How to eat and supplement **intelligently**, not neurotically  
 
 ---
