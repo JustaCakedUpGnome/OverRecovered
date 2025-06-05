@@ -18,7 +18,7 @@ Start here:
    - Fiber recruitment hierarchy  
    - CNS fatigue and its misunderstood role
 
-3. 🦴 **[Training Philosophy & Structural Realism](./Training%20Philosophy%20&%20Structural%20Realism.md)**  
+3. 🦴 **[Training Philosophy & Structural Realism](./Training%20Philosophy%20%26%20Structural%20Realism.md)**
    Leverage-aware training built around *your* anatomy — not your idol’s.  
    - Insertions, bone lengths, joint angles  
    - ROM adjustments and accommodation  
